@@ -1,7 +1,6 @@
 ### Hi, I’m Rabie Amor 👋
 
 <!--
-
 👀 I’m interested in CI/CD,devops,k8s,Cloud,docker,ansible,terraform,jenkins
 🌱 I’m currently learning cloud 
 💞️ I’m looking to collaborate on k8s
